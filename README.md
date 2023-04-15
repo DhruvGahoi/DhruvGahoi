@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gahoi</h1>
 <h3 align="center">Passionate software developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgahoi&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgahoi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvgahoi" alt="dhruvgahoi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvvgahoi" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvvgahoi?logo=twitter&style=for-the-badge" alt="dhruvvgahoi" /></a> </p>
 
